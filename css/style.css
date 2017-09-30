@@ -1,0 +1,44 @@
+.panel-heading h3 .panel-title {
+	text-align:center;
+}
+
+.footer {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.footer p {
+	text-align: center;
+	line-height: 50px;
+	color: #999;
+}
+
+.navbar-default .navbar-brand {
+    background-color: rgb( 50, 140, 129);
+    color: white;
+}
+
+img {
+	margin-right:5px;
+}
+
+.ImgRow {
+	height: 220px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	width:200px;
+	float: left;
+	position: relative;
+
+}
+
+.imgWords {
+	height: 40px;
+	width: 180px;
+	background-color: rgb( 50, 140, 129);
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+
+
